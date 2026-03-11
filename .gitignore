@@ -1,0 +1,27 @@
+# ambiente virtual
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# jupyter
+.ipynb_checkpoints/
+
+# vscode
+.vscode/
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# dados grandes (opcional)
+data/
+*.csv
+*.xlsx
+
+# logs
+*.log
